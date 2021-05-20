@@ -1,5 +1,6 @@
 # Python-project-CV-generator
 
+## Based on project made by Amigoscode on youtube.
 ##Instalation
 run 'python install -r requirements.txt'
 
