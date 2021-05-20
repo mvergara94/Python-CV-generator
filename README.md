@@ -1,4 +1,4 @@
-# Python-project
+# Python-project-CV-generator
 
 ##Instalation
 run 'python install -r requirements.txt'
